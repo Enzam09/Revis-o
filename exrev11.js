@@ -1,0 +1,1 @@
+//criar prorama para mostrar se um número é maior que 22
