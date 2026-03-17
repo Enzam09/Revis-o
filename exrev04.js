@@ -1,4 +1,4 @@
-//criar um programa para mostrar a subtração de dois números.
+//Criar um programa para mostrar a subtração de dois números.
 let numero = 10
 let numero2 = 5
 let resultado = numero - numero2
